@@ -1,4 +1,8 @@
-#Project Based Experiments
+# Project Based Experiments
+
+### NAME: SATHYAA R
+### REG NO: 212223100052
+
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
  
